@@ -1,1 +1,1 @@
-# Tutorial script invesigating web scraping and ftext processing
+# Tutorial script invesigating web scraping and text processing
