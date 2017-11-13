@@ -1,1 +1,1 @@
-# Tutorial script invesigating web scraping and text processing
+# Machine learning information and practical examples
